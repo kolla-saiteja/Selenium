@@ -3,46 +3,7 @@ Configure run settings UAT from Selenium\Specflow\RunSettings folder
 Open test explorer and it will list the available tests. Select the test and click run to run the tests.
 
 
-Specflow Test Execution Report
-Project: Specflow
-Configuration: Specflow
-Test Assemblies: Specflow.dll
-Start Time: 06/06/2023 15:06:33
-Duration: 00:00:09.1705540
-Test Threads: 2
-Result: all tests passed
-Success rate	Tests	Succeeded	Failed	Pending	Ignored	Skipped
-100%	
-1	1	0	0	0	0
-Test Timeline Summary
-thread
-#0	
- 
- 
-#1	
- 
- 	0s
-Test Result View
-sort by: time act time execution result descheights: time act time
-8.4s	 	 
-4.2s	 	 
-0s	 	 
- 	
- 
- 
- 	 
-Feature Summary
-Feature	Success rate	Tests	Succeeded	Failed	Pending	Ignored	Skipped	Duration
-AutomationTaskFeature	100%	
-1	1	0	0	0	0	00:00:08.3961367
-Error Summary
-Test	Success rate	Tests	Succeeded	Failed	Pending	Ignored	Skipped
-Scenario Summary
-Feature: AutomationTaskFeature
-Test	Success rate	Tests	Succeeded	Failed	Pending	Ignored	Skipped	Duration
-Scenario: Katalon Task	100%	
-1	1	0	0	0	0	00:00:08.3961367
-Execution Details
+
 Scenario: Katalon Task (in Specflow, AutomationTaskFeature)
 Status: Succeeded
 Start time: 06/06/2023 15:06:33
